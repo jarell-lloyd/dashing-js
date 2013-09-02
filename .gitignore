@@ -4,4 +4,5 @@
 *.pid
 *.swp
 *.swo
+.idea/
 node_modules/
