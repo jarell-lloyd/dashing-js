@@ -224,5 +224,5 @@ program.parse(process.argv);
 
 function createProject(name) {
   console.log('Creating "%s"', name);
-  Thor.directory('project', name, {name: name, dashing: {version: pkg.version, repository: pkg.repository }});
+  Thor.directory('project', name, {name: name, dashing: pkg});
 }
