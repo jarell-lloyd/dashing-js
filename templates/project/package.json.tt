@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "dashing-js": "~<%= dashing.repository %>"
+    "dashing-js": "~<%= repository %>"
   },
   "engine": "node >= 0.8"
 }
