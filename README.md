@@ -2,15 +2,14 @@
 
 Port of [Dashing](http://shopify.github.io/dashing/) to node.js
 
-[![NPM version](https://badge.fury.io/js/dashing-js.png)](http://badge.fury.io/js/dashing-js)
-[![Dependency Status](https://david-dm.org/fabiocaseri/dashing-js.png)](https://david-dm.org/fabiocaseri/dashing-js)
+forked from [fabiocaseri/dashing-js](https://github.com/fabiocaseri/dashing-js) to added basic authentication
 
 ## Getting Started
 
 1. Install from npm
 
 ```shell
-$ npm install -g dashing-js
+$ npm install -g git+https://github.com/jarell-lloyd/dashing-js.git
 ```
 
 2. Generate a new project
