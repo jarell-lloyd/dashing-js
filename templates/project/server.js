@@ -10,7 +10,7 @@ var dashing = require('dashing-js').Dashing();
 //dashing.password = 'admin';
 
 /*
-dashing._protected = function(req, res, next) {
+dashing.authenticateUser = function(req, res, next) {
   // Put any authentication code you want in here.
   // This method is run before accessing any resource.
   // if (true) next();
