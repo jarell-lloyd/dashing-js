@@ -1,3 +1,10 @@
+0.0.12 / 2013.09.04
+-------------------
+
+* Forked from [original project](https://github.com/fabiocaseri/dashing-js)
+* Added basic authentication
+
+
 0.0.11 / 2013.07.xx
 -------------------
 
