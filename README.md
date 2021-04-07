@@ -24,6 +24,7 @@ $ dashing-js new sweet_dashboard_project
 $ cd sweet_dashboard_project && npm install
 ```
 
+
 4. Start the server!
 
 ```shell
